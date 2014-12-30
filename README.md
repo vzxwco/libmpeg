@@ -1,4 +1,4 @@
 libmpeg
 =======
 
-MPEG frame header parser library
+MPEG frame header parser library written in C.
