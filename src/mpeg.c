@@ -4,7 +4,7 @@
  *    Felix Opatz <felix@zotteljedi.de>.  All rights reserved.
  *
  * Copyright (c) 2007
- *    Philip Busch <philip@0xe3.com>. All rights reserved.
+ *    Philip Busch <vzxwco@gmail.com>. All rights reserved.
  *
  * Reads MPEG frame header information.
  * See http://www.dv.co.yu/mpgscript/mpeghdr.htm for MPEG frame header specs.
